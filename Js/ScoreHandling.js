@@ -30,7 +30,9 @@ function RemoveForm() {
   TextContent.style.display = "none";
   TextContent = document.querySelector(`.loss`);
   TextContent.style.display = "none";
-  span.remove()
+  if (span) {
+    span.remove()
+  }
 }
 
 var socket = new WebSocket("ws://localhost:8081/get");
