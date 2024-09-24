@@ -9,21 +9,9 @@ A high-performance web game that runs at a consistent 60 FPS using plain JavaScr
 - A pause menu with options to Continue and Restart.
 - A scoreboard displaying metrics like Countdown clock, Score, and Lives.
 
-For example:
+## Example
 
-```console
-Congrats O.J, you are in the top 6%, on the 2nd position.
-
-Rank| Name | Score  | time
----------------------------
-1st | Kave | 233254 | 12:01
-2nd | A.J. | 222555 | 03:00
-3rd | O.J. | 14356  | 05:40
-4th | -.-  | 13663  | 02:34
-5th | iris | 2354   | 00:40
-
-     <- Page 1/50 ->
-```
+https://github.com/user-attachments/assets/38ffcffd-7c8a-4a4c-a809-b8db8773fe25
 
 ### Usage 
 ```
