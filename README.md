@@ -1,4 +1,4 @@
-# make-your-game
+# Pacman
 
 ## Objectives
 A high-performance web game that runs at a consistent 60 FPS using plain JavaScript and HTML. Key features include a pause menu, a scoreboard with player metrics, and a custom tile map engine, all while ensuring smooth controls and efficient data handling through a Go API for score management. 
